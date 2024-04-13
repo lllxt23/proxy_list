@@ -1,2 +1,2 @@
-# proxy_list
+#weiboz
 proxy_list高匿代理ip
